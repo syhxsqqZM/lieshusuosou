@@ -1,0 +1,37 @@
+p {margin: 0;
+   color:red;}
+html, body{
+   font-family: 'PT Sans', sans-serif;
+   font-size: 100%;
+   background-image: url(x.jpg);
+}
+.input{    
+width:480px;     /* ÕâÀïÊÇÊäÈë¿òµÄ³¤¶È */    
+height:45px;   /* ÕâÀïÊÇÊäÈë¿òµÄ¿í¶È */    
+position:absolute;   /* ÕâÀï¹æ¶¨ÊäÈë¿òµÄ¶¨Î»ÀàÐÍ */    
+top:520px;   /* ÕâÀï¹æ¶¨ÊäÈë¿òÓÚÔ­Î»ÖÃÏòÏÂÆ«ÒÆ100px  */    
+left:430px;    /*  ÕâÀï¹æ¶¨ÊäÈë¿òÓÚÔ­Î»ÖÃÏòÓÒÆ«ÒÆ300px  */
+}
+.button{
+	width:70px;
+	height:45px;
+	position:absolute;
+	top:520px;
+	left:960px;
+}
+input{
+	top:300px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
