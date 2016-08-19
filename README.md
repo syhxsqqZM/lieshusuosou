@@ -1,5 +1,6 @@
 # lieshusuosou
 Requirements
+
 Python 2.7.x (DO NOT USE Python 3.X)
 
 Wampserver
@@ -15,6 +16,7 @@ MySQLdb library
 
 
 Usage
+
 1、	Put the whole project on the C:\wamp\www\ diretorary
 
 2、	Run WampServer.exe
