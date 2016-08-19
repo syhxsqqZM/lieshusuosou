@@ -3,13 +3,13 @@
 
 Python 2.7.x (DO NOT USE Python 3.X)
 
-Wampserver
+．Wampserver
 
-Httplib2 library
+．Httplib2 library
 
-BeautifulSoup library
+．BeautifulSoup library
 
-MySQLdb library
+．MySQLdb library
 
 
 
