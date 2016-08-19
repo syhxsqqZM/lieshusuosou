@@ -3,13 +3,13 @@
 
 Python 2.7.x (DO NOT USE Python 3.X)
 
-．Wampserver
+ ．Wampserver
 
-．Httplib2 library
+ ．Httplib2 library
 
-．BeautifulSoup library
+ ．BeautifulSoup library
 
-．MySQLdb library
+ ．MySQLdb library
 
 
 
@@ -17,13 +17,13 @@ Python 2.7.x (DO NOT USE Python 3.X)
 
 ##Usage
 
-1、	Put the whole project on the C:\wamp\www\ diretorary
+ 1、	Put the whole project on the C:\wamp\www\ diretorary
 
-2、	Run WampServer.exe
+ 2、	Run WampServer.exe
 
-3、	In the IE brower to http://127.0.0.1/phpmyadmin/,then in the test database to create a table named “book”,this table totally has eight fields: keywords, i, title, img, url, author, content,status. 
+ 3、	In the IE brower to http://127.0.0.1/phpmyadmin/,then in the test database to create a table named “book”,this table totally has eight fields: keywords, i, title, img, url, author, content,status. 
 
-4、	After completing step three,In the IE brower to we http://127.0.0.1/lieshusousuo/.
+ 4、	After completing step three,In the IE brower to we http://127.0.0.1/lieshusousuo/.
 
 
  
